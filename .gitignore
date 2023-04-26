@@ -1,3 +1,4 @@
 logs
-data/*
+data
+models
 __pycache__
