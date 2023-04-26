@@ -7,3 +7,13 @@ The official PyTorch implementation of the paper 'Learning Survival Distribution
 - PyTorch 1.12.0
 
 # Citation
+
+```bibtex
+@inproceedings{ling2023isf,
+  title={Learning Survival Distribution with Implicit Survival Function},
+  author={Ling, Yu and Tan, Weimin and Yan, Bo},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI)},
+  year={2023}
+}
+```
+
